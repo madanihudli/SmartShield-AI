@@ -1,0 +1,15 @@
+{
+  "dataset": "PhiUSIIL Phishing URL (Website)",
+  "repository": "UCI Machine Learning Repository",
+  "url": "https://archive.ics.uci.edu/dataset/967/phiusil+phishing+url+dataset",
+  "instances": 235795,
+  "legitimate": 134850,
+  "phishing": 100945,
+  "features": 54,
+  "labels": {
+    "1": "legitimate",
+    "0": "phishing"
+  },
+  "license": "CC BY 4.0",
+  "citation": "Prasad, A. & Chandra, S. (2024). PhiUSIIL: A diverse security profile empowered phishing URL detection framework based on similarity index and incremental learning. Computers & Security, 136, 103545."
+}
